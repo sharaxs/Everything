@@ -1,0 +1,54 @@
+.header {
+float: center;
+position: fixed;
+width: 90%;
+height: 47%;
+background-image:url("1.png");
+background-repeat:no-repeat;
+border-width: 3px;
+border-color: black;
+border-style: solid;
+border-radius: 25px 50px 50px 25px;
+}
+ 
+.index {
+float: center;
+position: fixed;
+margin-top: 330px;
+width: 150px;
+height: 300px;
+background-color: #3366CC;
+border-width: 3px;
+border-color: black;
+border-style: solid;
+
+}
+ 
+.text {
+float: left;
+position: fixed;
+margin-top: 330px;
+margin-left: 200px;
+width: 800px;
+height: 230px;
+border-width: 3px;
+border-color: black;
+border-style: solid;
+
+}
+ 
+ 
+.spam {
+float: right;
+position: fixed;
+margin-top: 330px;
+margin-left: 1100px;
+width: 150px;
+height: 300px;
+ background-color: #3366CC;
+border-width: 3px;
+border-color: black;
+border-style: solid;
+
+ 
+}
