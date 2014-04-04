@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+  "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=cp1251">
+  <title>Документ лівого фрейма</title>
+ </head>
+<body>
+	<h4> тут ми повинні споглядати документ який призначений для розміщення в лівому фреймі</h4>
+   <ul>
+      <li><a href="top-bag_bug.html" target="topFrame">якщо клацнути сюди, то в топовом фреймі буде помилка завантаження документа</a></li>
+      <li><a href="top.html" target="topFrame">якщо клацнути сюди, то в топовом фреймі завантажиться документ</a></li>
+      <li><a href="main.html" target="mainFrame">якщо клацнути сюди, то в правому фреймі завантажиться документ</a></li>
+      <li><a href="main_bug.html" target="mainFrame">якщо клацнути сюди, то в правому фреймі буде помилка завантаження документа</a></li>
+  </ul>
+</body>
+</html>
