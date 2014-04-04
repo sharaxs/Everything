@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+  "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=cp1251">
+  <title>Документ голвного фрейма</title>
+ </head>
+<body>
+	<h4> тут ми повинні споглядати документ який призначений для розміщення в головному фреймі</h4>
+	 <ul>
+      <li><a href="top-bag_bug.html" target="topFrame">якщо клацнути сюди, то в топовом фреймі буде помилка завантаження документа</a></li>
+      <li><a href="top.html" target="topFrame">якщо клацнути сюди, то в топовом фреймі завантажиться документ</a></li>
+      <li><a href="left.html" target="leftFrame">якщо клацнути сюди, то в лівому фреймі завантажиться документ</a></li>
+      <li><a href="left_bug.html" target="leftFrame">якщо клацнути сюди, то в лівому фреймі буде помилка завантаження документа</a></li>
+  </ul>
+</body>
+</html>
