@@ -1,0 +1,84 @@
+<HTML>	
+<HEAD>
+<TITLE> Автобіографія </TITLE>
+</HEAD>
+<BODY >
+<marquee direction="right" bgcolor="#color" width="300">Тут може бути ваша реклама</marquee>
+<Body background="http://www.nastol.com.ua/images/201311/nastol.com.ua_69431.jpg">
+<center>  <font size=19 color=red family="Times">РЕЗЮМЕ</font></center>
+<p align="right"> <sup>Довбиш Олександр Володимирович</sup></p>
+<p align="right"> <sup>Ціль: Поєднувати навчання та роботу</sup></p>
+<p align="right"> <sub>Бажаний рівень оплати: від 1400 грн</sub></p>
+<p align="right"> <sub>Дата та місце народження: 28 травня 1994 року,</sub></p>
+<p align="right"> <sub>м. Золотоноша</sub></p>
+<p align="right"> <sub>Вік: 19 років</sub></p>
+<p align="right"><sub> <del>Сімейний стан: Не одружений</del></sub> </p>
+<hr>
+<p>   </p>
+<center> <BIG>КОНТАКТИ</BIG></center>
+<p align="left">Адреса: м. Черкаси, вул.Хрещатик, буд. 53.</p>
+<p align="left"> Телефон мобільний: +38 098 977  55  57</p>
+<p align="left"> E-mail: sharex@ukr.net</p>
+<p align="left"> <a href="http://vk.com/id22116371">Явконтакте</a></p>
+<hr>
+<p>    </p>
+<p align="justify"><BIG>Освіта:</BIG></justify> 
+<p align="justify"><b>2012 – 2016 ЧНУ ім. Богдана Хмельницького, факультет ННІ економіки і права, спеціальність – економічна кібернетика.</b></justify> 
+<p align="justify"><b><b>Досвід роботи:</b> </justify> 
+<p align="justify">Працював не офіційно </justify> 
+<p align="left">- <i>Продавець метало пластикових вікон і дверей</i></p>
+<p align="left">- <i>Продавець С/Г техніки</i></p>
+<p align="left">- <i>Продавець квасу</i></p>
+<p align="left">- <i>Офіціант</i></p>
+<p align="justify"><b>Знання мов</b></p> 
+<p align="justify">Українська – рідна; російська – вільно; англійська – розмовний; Німецька – технічний</p>
+<p align="justify"><b>Навички</b></p>
+<p align="justify">Досвідчений користувач: MS Office (Word, Exсel, Power Point), навички роботи з Internet (Explorer, Mozilla Firefox, Opera, Сhrome) і графічними редакторами (PhotoShop CS2, CorelDraw)</p>
+<p align="justify"><u><b>Права водія категорії В.</b></u></p>
+<p align="justify">Закінчив музичну школу по грі на гітарі</p>
+<p align="justify"><b> <font face= "Arial" color = "yellow">Особисті якості:</font></b></p>
+<p align="justify"> <font face= "Arial" color = "yellow">Енергійний, креативний, відповідальний, пунктуальний з почуттям гумору, комунікабельний, працелюбний, добросовісний, наполегливий, аналітичне мислення, легко та швидко навчаюсь новому з великим бажанням.</font></p>
+<hr>
+   <h1 align = left>  Заголовок 1 </h1> 
+   <h2 align = left>  Заголовок 2 </h2> 
+   <h3 align = left>  Заголовок 3 </h3> 
+   <h4 align = left>  Заголовок 4 </h4>
+   <h5 align = left>  Заголовок 5 </h5> 
+   <h6 align = left>  Заголовок 6 </h6> <br> 
+
+<Font face="arial" color ="red" size="6">Маркеровані списки </font><ul><ul Type = "disk"> <li>Сосиски</li><br><li>Сало</li><br><li>Ковбаса</li><br> 
+   <ul Type = "square"> <li>Банан</li><br><li>Лимон</li><br><li>Апельсин</li><br></ul><br>
+   
+<Font face="arial"color ="navy" size="6">Нумеровані списки</font><br>
+<Font face="arial"color ="navy" size="3">з&nbspзаданим&nbspпочатком&nbspнумерації</font><br><ol><ol Type="1"start="3"><li>Стас</li><br><li>Стасік</li><br><li>Стасян</li><br>
+<Font face="arial"color ="navy" size="3">нумерація латинськими літерами</font><br><ol Type="A" start = "A"><li>Куку</li><br><li>Бяка</li><br><li>Бука</li><br></ol> <br>
+
+<Font face="arial"color ="navy" size="3">Вкладені списки </font><br>
+<p><ol Type="A"><li>Сир</li><br><ol><li>Чиз</li><br><li>Сир</li></ol></ol></p> 
+<p><ul Type="square"><li>Фанта</li><br><ul type="circle"><li>Спрайт</li><br><li>Кола</li></ul></ul></p> 
+<ol> <li>Список 1</li><ul><li>Пункт списку 1.1</li><li>Пункт списку 1.2</li></ul>
+<li>Список 2</li><ul><li>Пункт списку 2.1</li><li>Пункт списку 2.2</li></ul></ol> <br>
+
+<Font face="arial"color ="navy" size="6">Списки визначень</font>
+<dl><dt> <font face="Arial" size="2" color="blue">Меню McDonals</font> 
+<dd>Гамбургер
+<dd>Чізбургер
+<dd>Даблчізбургер
+<dd>Бі-Рол
+<dd>БігМак
+<dt><font face="Arial" size="2" color="blue">  Десерти </font> 
+<dd>Морожено
+<dd>Суфле</dl> 
+
+   X<sub>(a*b)</sub> Log<sup>2</sup> Log<sub>(a*b)</sub><sup>3</sup><br>
+   <p><tt><big>Олексаднр</big> <big><big>Сашик</big></big>  <big><big><big>Саньок</big></big></big><tt></p> <br>
+   <font face= "Arial" color = "red" size = "4"> СТИЛЬ</font> <br>  
+   <font face= "Arial" color = "yellow" size = "+2"> БІЛЬШЕ НА 2</font> <br>
+   <font face= "Arial" color = "green" size = "-2"> МЕНЬШЕ НА 2 </font> <br>
+
+<BLOCKQUOTE>Как хорошо когда в памяти есть моменты, вспомнив которые на лице появляется улыбка =)</BLOCKQUOTE> 
+<p align=center>&quot;27&quot;листопада 2013&copy </p>
+
+   
+</BODY>
+</HTML>
